@@ -37,4 +37,4 @@ additional_build_steps:
 
 options:
   tags:
-    - ansible_sample_ee
+    - test_third_ee
