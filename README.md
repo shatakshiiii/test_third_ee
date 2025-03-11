@@ -1,6 +1,6 @@
 # Execution Environment Project
 
-### This is a sample execution environment project to build and publish your EE.
+### This is a sample execution environment project to build and publish your EE image.
 
 ## Included content/ Directory Structure
 
